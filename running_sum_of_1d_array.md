@@ -20,8 +20,8 @@ class Solution(object):
         return ans
 ```
 ## Time Complexity 𝑂(n)
-- Initialization: `𝑂(1)`
-- Initialization: `𝑂(1)`
+- 1st Initialization: `𝑂(1)`
+- 2nd Initialization: `𝑂(1)`
 - Loop iterates `n` times. Each iteration is  `𝑂(1)`. So, total time for the loop is `𝑂(n)`.
   
 - To calculate the total time complexity:
