@@ -1,4 +1,5 @@
-/create_target_array_in_the_given_order.py
-/count_items_matching_a_rule.py
-/cells_with_odd_values_in_a_matrix.py
-/transpose_matrix.py
+/Arrays/create_target_array_in_the_given_order.py
+/Arrays/count_items_matching_a_rule.py
+/Arrays/cells_with_odd_values_in_a_matrix.py
+/Arrays/transpose_matrix.py
+/Arrays/maximum_population_year.py
