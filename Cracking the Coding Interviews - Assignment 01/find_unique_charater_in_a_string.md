@@ -18,7 +18,6 @@ class Solution(object):
             else:
                 dict[char] = [1, index]
 
-        print(dict)
         for char, (cnt, idx) in dict.items():
             if cnt == 1:
                 return idx
